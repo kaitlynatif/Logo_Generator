@@ -1,4 +1,4 @@
-# 10 Object-oriented Programming: SVG Logo Maker
+# Object-Oriented Programming: SVG Logo Maker
 
 # Table of Contents
 * [Description](#description)
@@ -65,7 +65,7 @@ Directory Structure:
 └── README.md           // App description, link to video, setup and usage instructions           
 ```
 
-> **Important**: Make sure that you remove `dist` from the `.gitignore` file so that Git will track this folder and include it when you push up to your application's repository.
+> **Important**: Make sure to remove `dist` from the `.gitignore` file so that Git will track this folder and include it when you push up to your application's repository.
 The application must include `Triangle`, `Circle`, and `Square` classes, as well as tests for each of these classes using Jest. While not a requirement, it is recommended that you place any common functionality and properties shared by the `Triangle`, `Circle`, and `Square` classes in a parent `Shape` class and use inheritance to reuse the code in the child classes.
 
 Each shape class should be tested for a `render()` method that returns a string for the corresponding SVG file with the given shape color.
@@ -82,7 +82,7 @@ expect(shape.render()).toEqual('<polygon points="150, 18 244, 182 56, 182" fill=
 
 The following image shows a mock-up of the generated SVG given the following input entered by the user: `SVG` for the text, `white` for the text color, `circle` from the list of shapes, and `green` for the shape color. Note that this is just an image of the output SVG and not the SVG file itself:
 
-![Image showing a green circle with white text that reads "SVG.".](./Images/10-oop-homework-demo.png)
+![Image showing a blue circle with white text.]()
 
 ## Contributions, Credits, and Helpful SVG Resources Used to Create this Application
 
