@@ -1,0 +1,29 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "# Table of Contents * [Description](#description) * [User Story](#user-story) * [Acceptance Criteria](#acceptance-criteria) * [Installation](#installation) * [Usage](#usage) * [Mock-Up](#mock-up) * [Contributions](#contributions) * [Questions](#questions) * [License](#license)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaitlynatif/Logo_Generator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/kaitlynatif/Logo_Generator/issues"
+  },
+  "homepage": "https://github.com/kaitlynatif/Logo_Generator#readme",
+  "directories": {
+    "lib": "lib"
+  }
+}
