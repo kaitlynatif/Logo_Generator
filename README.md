@@ -4,8 +4,7 @@
 * [Description](#description)
 * [User Story](#user-story)
 * [Acceptance Criteria](#acceptance-criteria)
-* [Installation](#installation)
-* [Usage](#usage)
+* [Installation & Usage](#installation-and-usage)
 * [Mock-Up](#mock-up)
 * [Contributions](#contributions)
 * [Questions](#questions)
@@ -42,7 +41,7 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 
-## Installation & Usage
+## Installation And Usage
 
 Your application should use [Jest](https://www.npmjs.com/package/jest) for running the unit tests and [Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4) for collecting input from the user. The application will be invoked by using the following command:
 
@@ -84,7 +83,8 @@ The following image shows a mock-up of the generated SVG given the following inp
 
 ![Image showing a blue circle with white text that reads 'KFA'.](./Examples/logo.svg)
 
-## Contributions, Credits, and Helpful SVG Resources Used to Create this Application
+## Contributions
+### Credits, and Helpful SVG Resources Used to Create this Application
 
 * [SVG Logo Generator Video Tutorial](https://youtu.be/GJYMcLus3v0)
     - This video tutorial assisted me in writing my shapes.test.js
@@ -100,6 +100,10 @@ The following image shows a mock-up of the generated SVG given the following inp
 * [Text in SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts)
 
 * [SVG VS Code extension](https://marketplace.visualstudio.com/items?itemName=jock.svg)
+
+## Questions
+
+For any inquiries, please contact me at kaitlynatif90@hotmail.com
 
 ## License
 
