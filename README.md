@@ -82,7 +82,7 @@ expect(shape.render()).toEqual('<polygon points="150, 18 244, 182 56, 182" fill=
 
 The following image shows a mock-up of the generated SVG given the following input entered by the user: `SVG` for the text, `white` for the text color, `circle` from the list of shapes, and `green` for the shape color. Note that this is just an image of the output SVG and not the SVG file itself:
 
-![Image showing a blue circle with white text.]()
+![Image showing a blue circle with white text that reads 'KFA'.](./Examples/logo.svg)
 
 ## Contributions, Credits, and Helpful SVG Resources Used to Create this Application
 
