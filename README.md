@@ -91,6 +91,8 @@ The following image shows a mock-up of the generated SVG given the following inp
 
 ![Image showing a blue circle with white text that reads 'KFA'.](./Examples/logo.svg)
 
+![Video Demonstration of SVG Logo Generator](./logo_generator_demo.gif.crdownload)
+
 URL of GitHub Repository: https://github.com/kaitlynatif/Logo_Generator
 
 ## Contributions
